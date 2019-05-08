@@ -1,6 +1,4 @@
-The referenced dataset is from the CVC-ClinicDB and it can be accessed from here - 
-https://polyp.grand-challenge.org/CVCClinicDB/.
-
+Pre-requistes :
 You will also need anaconda distribution which can be downloaded and installed from here - 
 https://www.anaconda.com/distribution/
 
@@ -11,4 +9,5 @@ To run this project do the following -
 4) Navigate to where you downloaded the project and open unet.ipynb file. 
 5) Run throught the opened jupyter notebook step and step to train and see the AI work.
 
-Note : I have done the conversion from .tif to .png format. Feeding original .tif format will not work in my jupyter notebook.
+Note : I have done the conversion from .tif to .png format. Feeding original .tif format will not work in my jupyter notebook. You do not need to procure the original dataset. However, if you are interested the referenced dataset is from the CVC-ClinicDB and it can be accessed from here - 
+https://polyp.grand-challenge.org/CVCClinicDB/.
