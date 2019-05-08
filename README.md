@@ -1,4 +1,3 @@
-"# automated-colon-polyp-detector" 
 The referenced dataset is from the CVC-ClinicDB and it can be accessed from here - 
 https://polyp.grand-challenge.org/CVCClinicDB/.
 
@@ -11,3 +10,5 @@ To run this project do the following -
 3) It will open a browser with localhost link and your filesystem structure will be displayed.
 4) Navigate to where you downloaded the project and open unet.ipynb file. 
 5) Run throught the opened jupyter notebook step and step to train and see the AI work.
+
+Note : I have done the conversion from .tif to .png format. Feeding original .tif format will not work in my jupyter notebook.
