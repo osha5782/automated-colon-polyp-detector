@@ -1,5 +1,8 @@
 Pre-requistes :
 
+You can get my entire working code from here - 
+https://github.com/uditadhikari/automated-colon-polyp-detector/
+
 You will also need anaconda distribution which can be downloaded and installed from here - 
 https://www.anaconda.com/distribution/
 
